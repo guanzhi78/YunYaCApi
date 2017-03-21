@@ -1,0 +1,226 @@
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\ApplicationInsights.config
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\roslyn\csc.exe
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\roslyn\System.Collections.Immutable.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\roslyn\vbc.exe
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\roslyn\VBCSCompiler.exe
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\roslyn\VBCSCompiler.exe.config
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\YunYaCApi.dll.config
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\YunYaCApi.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\YunYaCApi.pdb
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Antlr3.Runtime.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\EntityFramework.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\EntityFramework.SqlServer.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.AI.Web.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.AI.WindowsServer.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.ApplicationInsights.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.Owin.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.Owin.Security.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.Owin.Security.Google.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.Web.Infrastructure.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Newtonsoft.Json.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Owin.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\System.Net.Http.Formatting.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\System.Web.Helpers.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\System.Web.Http.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\System.Web.Http.Owin.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\System.Web.Http.WebHost.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\System.Web.Mvc.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\System.Web.Optimization.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\System.Web.Razor.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\System.Web.WebPages.Deployment.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\System.Web.WebPages.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\System.Web.WebPages.Razor.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\WebGrease.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.AI.Web.xml
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.AI.WindowsServer.xml
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.ApplicationInsights.xml
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Newtonsoft.Json.xml
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\System.Net.Http.Formatting.xml
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\System.Web.Helpers.xml
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\System.Web.Http.xml
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\System.Web.Http.WebHost.xml
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\System.Web.Mvc.xml
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\System.Web.Optimization.xml
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\System.Web.Razor.xml
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\System.Web.WebPages.xml
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\System.Web.WebPages.Deployment.xml
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\System.Web.WebPages.Razor.xml
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Antlr3.Runtime.pdb
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\EntityFramework.xml
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\EntityFramework.SqlServer.xml
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.Owin.xml
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.Owin.Security.xml
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.Owin.Security.Google.xml
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\System.Web.Http.Owin.xml
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\zh-Hans\System.Web.Helpers.resources.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\zh-Hans\System.Web.Http.resources.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\zh-Hans\System.Web.Mvc.resources.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\zh-Hans\System.Web.Optimization.resources.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\zh-Hans\System.Web.Razor.resources.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\zh-Hans\System.Web.WebPages.resources.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\zh-Hans\EntityFramework.resources.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\zh-Hans\Microsoft.Owin.resources.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\bin\zh-Hans\System.Web.Http.Owin.resources.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\obj\Debug\YunYaCApi.csprojResolveAssemblyReference.cache
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\obj\Debug\YunYaCApi.dll
+c:\users\lucas\documents\visual studio 2015\Projects\YunYaCApi\YunYaCApi\obj\Debug\YunYaCApi.pdb
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\ApplicationInsights.config
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\roslyn\csc.exe
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\roslyn\System.Collections.Immutable.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\roslyn\vbc.exe
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\roslyn\VBCSCompiler.exe
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\roslyn\VBCSCompiler.exe.config
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\YunYaCApi.dll.config
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\YunYaCApi.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\YunYaCApi.pdb
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Antlr3.Runtime.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\EntityFramework.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\EntityFramework.SqlServer.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.AI.Web.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.AI.WindowsServer.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.ApplicationInsights.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.AspNet.Identity.Core.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.Owin.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.Owin.Security.Cookies.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.Owin.Security.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.Owin.Security.Facebook.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.Owin.Security.Google.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.Owin.Security.OAuth.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.Owin.Security.Twitter.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.Web.Infrastructure.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Newtonsoft.Json.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Owin.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\System.Net.Http.Formatting.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\System.Web.Helpers.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\System.Web.Http.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\System.Web.Http.Owin.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\System.Web.Http.WebHost.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\System.Web.Mvc.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\System.Web.Optimization.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\System.Web.Razor.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\System.Web.WebPages.Deployment.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\System.Web.WebPages.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\System.Web.WebPages.Razor.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\WebGrease.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.AI.Web.xml
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.AI.WindowsServer.xml
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.ApplicationInsights.xml
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Newtonsoft.Json.xml
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\System.Net.Http.Formatting.xml
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\System.Web.Helpers.xml
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\System.Web.Http.xml
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\System.Web.Http.WebHost.xml
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\System.Web.Mvc.xml
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\System.Web.Optimization.xml
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\System.Web.Razor.xml
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\System.Web.WebPages.xml
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\System.Web.WebPages.Deployment.xml
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\System.Web.WebPages.Razor.xml
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Antlr3.Runtime.pdb
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\EntityFramework.xml
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\EntityFramework.SqlServer.xml
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.AspNet.Identity.Core.xml
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.Owin.xml
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.Owin.Security.xml
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.Owin.Security.Facebook.xml
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.Owin.Security.Cookies.xml
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.Owin.Security.OAuth.xml
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.Owin.Security.Google.xml
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.Owin.Security.Twitter.xml
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\System.Web.Http.Owin.xml
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\zh-Hans\System.Web.Http.resources.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\zh-Hans\EntityFramework.resources.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\zh-Hans\Microsoft.Owin.resources.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\bin\zh-Hans\System.Web.Http.Owin.resources.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\obj\Debug\YunYaCApi.csprojResolveAssemblyReference.cache
+D:\新建文件夹\YunYaCApi\YunYaCApi\obj\Debug\YunYaCApi.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi\obj\Debug\YunYaCApi.pdb

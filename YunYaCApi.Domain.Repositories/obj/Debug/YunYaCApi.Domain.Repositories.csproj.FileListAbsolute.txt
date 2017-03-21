@@ -1,0 +1,4 @@
+D:\新建文件夹\YunYaCApi\YunYaCApi.Domain.Repositories\bin\Debug\YunYaCApi.Domain.Repositories.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi.Domain.Repositories\bin\Debug\YunYaCApi.Domain.Repositories.pdb
+D:\新建文件夹\YunYaCApi\YunYaCApi.Domain.Repositories\obj\Debug\YunYaCApi.Domain.Repositories.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi.Domain.Repositories\obj\Debug\YunYaCApi.Domain.Repositories.pdb

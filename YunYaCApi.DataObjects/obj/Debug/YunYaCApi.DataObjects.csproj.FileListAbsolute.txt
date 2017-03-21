@@ -1,0 +1,5 @@
+D:\新建文件夹\YunYaCApi\YunYaCApi.DataObjects\bin\Debug\YunYaCApi.DataObjects.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi.DataObjects\bin\Debug\YunYaCApi.DataObjects.pdb
+D:\新建文件夹\YunYaCApi\YunYaCApi.DataObjects\obj\Debug\YunYaCApi.DataObjects.csprojResolveAssemblyReference.cache
+D:\新建文件夹\YunYaCApi\YunYaCApi.DataObjects\obj\Debug\YunYaCApi.DataObjects.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi.DataObjects\obj\Debug\YunYaCApi.DataObjects.pdb

@@ -1,0 +1,4 @@
+D:\新建文件夹\YunYaCApi\YunYaCApi.Infrastructrue.Caching\bin\Debug\YunYaCApi.Infrastructrue.Caching.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi.Infrastructrue.Caching\bin\Debug\YunYaCApi.Infrastructrue.Caching.pdb
+D:\新建文件夹\YunYaCApi\YunYaCApi.Infrastructrue.Caching\obj\Debug\YunYaCApi.Infrastructrue.Caching.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi.Infrastructrue.Caching\obj\Debug\YunYaCApi.Infrastructrue.Caching.pdb

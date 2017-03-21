@@ -1,0 +1,5 @@
+D:\新建文件夹\YunYaCApi\YunYaCApi.ServiceContracts\bin\Debug\YunYaCApi.ServiceContracts.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi.ServiceContracts\bin\Debug\YunYaCApi.ServiceContracts.pdb
+D:\新建文件夹\YunYaCApi\YunYaCApi.ServiceContracts\obj\Debug\YunYaCApi.ServiceContracts.csprojResolveAssemblyReference.cache
+D:\新建文件夹\YunYaCApi\YunYaCApi.ServiceContracts\obj\Debug\YunYaCApi.ServiceContracts.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi.ServiceContracts\obj\Debug\YunYaCApi.ServiceContracts.pdb

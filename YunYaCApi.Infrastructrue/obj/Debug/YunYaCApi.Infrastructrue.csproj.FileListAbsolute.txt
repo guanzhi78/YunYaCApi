@@ -1,0 +1,4 @@
+D:\新建文件夹\YunYaCApi\YunYaCApi.Infrastructrue\bin\Debug\YunYaCApi.Infrastructrue.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi.Infrastructrue\bin\Debug\YunYaCApi.Infrastructrue.pdb
+D:\新建文件夹\YunYaCApi\YunYaCApi.Infrastructrue\obj\Debug\YunYaCApi.Infrastructrue.dll
+D:\新建文件夹\YunYaCApi\YunYaCApi.Infrastructrue\obj\Debug\YunYaCApi.Infrastructrue.pdb
