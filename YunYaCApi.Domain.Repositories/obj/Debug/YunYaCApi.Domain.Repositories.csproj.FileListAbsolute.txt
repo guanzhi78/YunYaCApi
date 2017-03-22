@@ -2,3 +2,7 @@ D:\新建文件夹\YunYaCApi\YunYaCApi.Domain.Repositories\bin\Debug\YunYaCApi.D
 D:\新建文件夹\YunYaCApi\YunYaCApi.Domain.Repositories\bin\Debug\YunYaCApi.Domain.Repositories.pdb
 D:\新建文件夹\YunYaCApi\YunYaCApi.Domain.Repositories\obj\Debug\YunYaCApi.Domain.Repositories.dll
 D:\新建文件夹\YunYaCApi\YunYaCApi.Domain.Repositories\obj\Debug\YunYaCApi.Domain.Repositories.pdb
+C:\Users\Lucas\Source\Repos\YunYaCApi\YunYaCApi.Domain.Repositories\bin\Debug\YunYaCApi.Domain.Repositories.dll
+C:\Users\Lucas\Source\Repos\YunYaCApi\YunYaCApi.Domain.Repositories\bin\Debug\YunYaCApi.Domain.Repositories.pdb
+C:\Users\Lucas\Source\Repos\YunYaCApi\YunYaCApi.Domain.Repositories\obj\Debug\YunYaCApi.Domain.Repositories.dll
+C:\Users\Lucas\Source\Repos\YunYaCApi\YunYaCApi.Domain.Repositories\obj\Debug\YunYaCApi.Domain.Repositories.pdb

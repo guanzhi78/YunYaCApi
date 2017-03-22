@@ -2,3 +2,7 @@ D:\新建文件夹\YunYaCApi\YunYaCApi.Infrastructrue\bin\Debug\YunYaCApi.Infras
 D:\新建文件夹\YunYaCApi\YunYaCApi.Infrastructrue\bin\Debug\YunYaCApi.Infrastructrue.pdb
 D:\新建文件夹\YunYaCApi\YunYaCApi.Infrastructrue\obj\Debug\YunYaCApi.Infrastructrue.dll
 D:\新建文件夹\YunYaCApi\YunYaCApi.Infrastructrue\obj\Debug\YunYaCApi.Infrastructrue.pdb
+C:\Users\Lucas\Source\Repos\YunYaCApi\YunYaCApi.Infrastructrue\bin\Debug\YunYaCApi.Infrastructrue.dll
+C:\Users\Lucas\Source\Repos\YunYaCApi\YunYaCApi.Infrastructrue\bin\Debug\YunYaCApi.Infrastructrue.pdb
+C:\Users\Lucas\Source\Repos\YunYaCApi\YunYaCApi.Infrastructrue\obj\Debug\YunYaCApi.Infrastructrue.dll
+C:\Users\Lucas\Source\Repos\YunYaCApi\YunYaCApi.Infrastructrue\obj\Debug\YunYaCApi.Infrastructrue.pdb

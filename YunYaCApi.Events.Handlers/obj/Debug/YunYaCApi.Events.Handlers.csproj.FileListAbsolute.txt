@@ -2,3 +2,7 @@ D:\新建文件夹\YunYaCApi\YunYaCApi.Events.Handlers\bin\Debug\YunYaCApi.Event
 D:\新建文件夹\YunYaCApi\YunYaCApi.Events.Handlers\bin\Debug\YunYaCApi.Events.Handlers.pdb
 D:\新建文件夹\YunYaCApi\YunYaCApi.Events.Handlers\obj\Debug\YunYaCApi.Events.Handlers.dll
 D:\新建文件夹\YunYaCApi\YunYaCApi.Events.Handlers\obj\Debug\YunYaCApi.Events.Handlers.pdb
+C:\Users\Lucas\Source\Repos\YunYaCApi\YunYaCApi.Events.Handlers\bin\Debug\YunYaCApi.Events.Handlers.dll
+C:\Users\Lucas\Source\Repos\YunYaCApi\YunYaCApi.Events.Handlers\bin\Debug\YunYaCApi.Events.Handlers.pdb
+C:\Users\Lucas\Source\Repos\YunYaCApi\YunYaCApi.Events.Handlers\obj\Debug\YunYaCApi.Events.Handlers.dll
+C:\Users\Lucas\Source\Repos\YunYaCApi\YunYaCApi.Events.Handlers\obj\Debug\YunYaCApi.Events.Handlers.pdb

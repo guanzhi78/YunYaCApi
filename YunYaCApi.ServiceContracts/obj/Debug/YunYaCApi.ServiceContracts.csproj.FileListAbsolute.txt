@@ -3,3 +3,8 @@ D:\新建文件夹\YunYaCApi\YunYaCApi.ServiceContracts\bin\Debug\YunYaCApi.Serv
 D:\新建文件夹\YunYaCApi\YunYaCApi.ServiceContracts\obj\Debug\YunYaCApi.ServiceContracts.csprojResolveAssemblyReference.cache
 D:\新建文件夹\YunYaCApi\YunYaCApi.ServiceContracts\obj\Debug\YunYaCApi.ServiceContracts.dll
 D:\新建文件夹\YunYaCApi\YunYaCApi.ServiceContracts\obj\Debug\YunYaCApi.ServiceContracts.pdb
+C:\Users\Lucas\Source\Repos\YunYaCApi\YunYaCApi.ServiceContracts\bin\Debug\YunYaCApi.ServiceContracts.dll
+C:\Users\Lucas\Source\Repos\YunYaCApi\YunYaCApi.ServiceContracts\bin\Debug\YunYaCApi.ServiceContracts.pdb
+C:\Users\Lucas\Source\Repos\YunYaCApi\YunYaCApi.ServiceContracts\obj\Debug\YunYaCApi.ServiceContracts.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Source\Repos\YunYaCApi\YunYaCApi.ServiceContracts\obj\Debug\YunYaCApi.ServiceContracts.dll
+C:\Users\Lucas\Source\Repos\YunYaCApi\YunYaCApi.ServiceContracts\obj\Debug\YunYaCApi.ServiceContracts.pdb

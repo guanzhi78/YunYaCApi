@@ -3,3 +3,8 @@ D:\新建文件夹\YunYaCApi\YunYaCApi.Application\bin\Debug\YunYaCApi.Applicati
 D:\新建文件夹\YunYaCApi\YunYaCApi.Application\obj\Debug\YunYaCApi.Application.csprojResolveAssemblyReference.cache
 D:\新建文件夹\YunYaCApi\YunYaCApi.Application\obj\Debug\YunYaCApi.Application.dll
 D:\新建文件夹\YunYaCApi\YunYaCApi.Application\obj\Debug\YunYaCApi.Application.pdb
+C:\Users\Lucas\Source\Repos\YunYaCApi\YunYaCApi.Application\bin\Debug\YunYaCApi.Application.dll
+C:\Users\Lucas\Source\Repos\YunYaCApi\YunYaCApi.Application\bin\Debug\YunYaCApi.Application.pdb
+C:\Users\Lucas\Source\Repos\YunYaCApi\YunYaCApi.Application\obj\Debug\YunYaCApi.Application.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Source\Repos\YunYaCApi\YunYaCApi.Application\obj\Debug\YunYaCApi.Application.dll
+C:\Users\Lucas\Source\Repos\YunYaCApi\YunYaCApi.Application\obj\Debug\YunYaCApi.Application.pdb

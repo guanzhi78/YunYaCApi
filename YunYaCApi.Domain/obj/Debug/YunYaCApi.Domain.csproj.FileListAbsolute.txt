@@ -2,3 +2,7 @@ D:\新建文件夹\YunYaCApi\YunYaCApi.Domain\bin\Debug\YunYaCApi.Domain.dll
 D:\新建文件夹\YunYaCApi\YunYaCApi.Domain\bin\Debug\YunYaCApi.Domain.pdb
 D:\新建文件夹\YunYaCApi\YunYaCApi.Domain\obj\Debug\YunYaCApi.Domain.dll
 D:\新建文件夹\YunYaCApi\YunYaCApi.Domain\obj\Debug\YunYaCApi.Domain.pdb
+C:\Users\Lucas\Source\Repos\YunYaCApi\YunYaCApi.Domain\bin\Debug\YunYaCApi.Domain.dll
+C:\Users\Lucas\Source\Repos\YunYaCApi\YunYaCApi.Domain\bin\Debug\YunYaCApi.Domain.pdb
+C:\Users\Lucas\Source\Repos\YunYaCApi\YunYaCApi.Domain\obj\Debug\YunYaCApi.Domain.dll
+C:\Users\Lucas\Source\Repos\YunYaCApi\YunYaCApi.Domain\obj\Debug\YunYaCApi.Domain.pdb
